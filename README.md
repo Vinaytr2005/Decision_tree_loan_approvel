@@ -374,8 +374,8 @@ The model should not be used as the sole basis for real lending decisions. Any p
 
 **Your Name**
 
-- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/Vinaytr2005)
-- LinkedIn: [[Add your LinkedIn profile URL](https://www.linkedin.com/in/vinay-tr-computer-datascience-engineering/)]
+- GitHub: [Vinaytr2005](https://github.com/Vinaytr2005)
+- LinkedIn: [[Vinay TR](https://www.linkedin.com/in/vinay-tr-computer-datascience-engineering/)]
 
 ## 📄 License
 
